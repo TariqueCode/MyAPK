@@ -3,6 +3,6 @@ from kivy.uix.label import Label
 
 class MyApp(App):
     def build(self):
-        return Label(text="Hello APK from Phone!")
+        return Label(text="Hello from GitHub APK!")
 
 MyApp().run()
