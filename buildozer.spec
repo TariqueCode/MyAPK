@@ -1,7 +1,7 @@
 [app]
-title = MyApp
-package.name = myapp
-package.domain = org.example
+title = MyAPK
+package.name = myapk
+package.domain = org.tarique
 
 source.dir = .
 source.include_exts = py
